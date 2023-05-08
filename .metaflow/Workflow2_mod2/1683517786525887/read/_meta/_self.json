@@ -1,0 +1,1 @@
+{"run_number": "1683517786525887", "step_name": "read", "flow_id": "Workflow2_mod2", "user_name": "baesuhyeon", "tags": [], "system_tags": ["metaflow_version:2.8.4", "project:example_wkf2", "runtime:dev", "project_branch:user.baesuhyeon", "user:baesuhyeon", "python_version:3.9.13"], "ts_epoch": 1683517787337}

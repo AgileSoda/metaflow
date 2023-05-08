@@ -1,4 +1,4 @@
-from metaflow import FlowSpec, step
+from metaflow import FlowSpec, step, project
 
 # 저장된 페르소나 특성을 불러와 페르소나 id별 해시태그 생성
 class Workflow2_mod3(FlowSpec):

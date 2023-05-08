@@ -1,0 +1,1 @@
+{"flow_id": "Workflow3_mod1", "run_number": "1683510542510552", "step_name": "read", "task_id": "2", "field_name": "metaflow_version", "type": "metaflow_version", "value": "2.8.4", "tags": ["attempt_id:0"], "user_name": "baesuhyeon", "ts_epoch": 1683510544033}

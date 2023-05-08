@@ -1,0 +1,1 @@
+{"flow_id": "Workflow2_mod1", "run_number": "1683509289543023", "step_name": "join", "task_id": "6", "field_name": "attempt_ok", "type": "internal_attempt_status", "value": "True", "tags": ["attempt_id:0"], "user_name": "baesuhyeon", "ts_epoch": 1683509293720}

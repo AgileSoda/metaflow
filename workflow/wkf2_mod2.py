@@ -1,4 +1,4 @@
-from metaflow import FlowSpec, step
+from metaflow import FlowSpec, step, project
 
 # DW 페르소나 구축을 위한 각 페르소나별 특성 저장
 class Workflow2_mod2(FlowSpec):
@@ -42,7 +42,7 @@ class Workflow2_mod2(FlowSpec):
         print('this step is skip')
         print(inputs.preprocess2_model.x)
         print(inputs.skip.x)
-        self.next(self.execute)
+        self.next(self.write)
     
     @step
     def write(self):
