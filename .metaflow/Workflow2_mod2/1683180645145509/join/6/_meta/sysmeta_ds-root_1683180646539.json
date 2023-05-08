@@ -1,0 +1,1 @@
+{"flow_id": "Workflow2_mod2", "run_number": "1683180645145509", "step_name": "join", "task_id": "6", "field_name": "ds-root", "type": "ds-root", "value": "/home/agilesoda/just-type/metaflow/daisy/.metaflow", "tags": ["attempt_id:0"], "user_name": "agilesoda", "ts_epoch": 1683180646539}

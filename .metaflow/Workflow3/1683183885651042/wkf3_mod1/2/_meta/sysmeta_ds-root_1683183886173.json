@@ -1,0 +1,1 @@
+{"flow_id": "Workflow3", "run_number": "1683183885651042", "step_name": "wkf3_mod1", "task_id": "2", "field_name": "ds-root", "type": "ds-root", "value": "/home/agilesoda/just-type/metaflow/daisy/.metaflow", "tags": ["attempt_id:0"], "user_name": "agilesoda", "ts_epoch": 1683183886173}
